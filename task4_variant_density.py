@@ -129,6 +129,6 @@ plt.ylabel("The number of variants")
 
 plt.show() 
 
-# Acknowledgement of GAI Contribution: Used to assist with the working directory, tigher layout for the matplots to avoid overlapping and a scan of the code for final errors.  
+# Acknowledgement of GAI Contribution: Used to assist with the working directory, cleaner layout for the matplots to avoid overlapping and a scan of the code for final errors.  
 
 
