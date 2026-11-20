@@ -1,5 +1,5 @@
 # Bioinformatics-portfolio
-Python coursework from my undergraduate bioinformatics module: 
+Python coursework from my undergraduate bioinformatics module (2025-2026): 
 * Sequence translation
 * Data plotting
 * Variant analysis
